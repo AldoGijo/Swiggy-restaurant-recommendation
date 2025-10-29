@@ -121,15 +121,4 @@ Your app will open automatically at:
 🔹 Add user-based collaborative filtering
 🔹 Include sentiment analysis of restaurant reviews
 
----
 
-## 👨‍💻 Author
-
-**Asaf**
-Data Science Enthusiast | Python Developer | ML Learner
-📧 *Contact:* [[your.email@example.com](mailto:aldogijo123@gmail.com)]
-🌐 *GitHub:* [https://github.com/yourusername](https://github.com/AldoGijo/Swiggy-restaurant-recommendation/new/main?filename=README.md)
-
----
-
-⭐ *If you like this project, consider giving it a star on GitHub!*
